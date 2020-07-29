@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jul 28 21:17:06 VET 2020:
+ Iniciando instancia a816c00e-0173-9824-f31a-00000007d3d8 de Derby, versión The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): 
+en el directorio de base de datos C:\Users\KIKE\Documents\NetBeansProjects\SmartBusiness\SmartBusiness con el cargador de clases sun.misc.Launcher$AppClassLoader@192e0f4
+Cargado desde file:/C:/Program%20Files/Java/jdk1.8.0_121/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=C:\Users\KIKE\Documents\NetBeansProjects\SmartBusiness
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
